@@ -1,3 +1,4 @@
-Ruben
-Andrés
-Carlos
+Ruben: ruben@gmail.com
+Andrés: andres@gmail.com
+Carlos: carlos@gmail.com
+José: jose@gmail.com
